@@ -1,0 +1,6 @@
+{
+  "name": "NABMEDIA STUDIO - منصة أدوات المونتاج الذكية",
+  "description": "منصة ويب متقدمة لصناع المحتوى ومونتيرية الفيديوهات القصيرة (Reels, TikTok, YouTube) مع أدوات تقطيع السكتات وتوليد كابتشن SRT وترجمة النصوص.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
